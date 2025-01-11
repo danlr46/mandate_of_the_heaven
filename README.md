@@ -1,5 +1,5 @@
-# mandate_of_the_heaven
-This repository contains files of the book The Mandate of the Sky: the Astronomy of Ancient China.
+# mandate_of_heaven
+This repository contains files of the book The Mandate of  Heaven: the Astronomy of Ancient China.
 
 1 - Epistolarium_Terrentius_Kepler_ENG.pdf, english translation of the letters exchanged between the chines missionary Jesuit Johannes Terrentius with Johannes Kepler
 2 - China thematic maps and star maps of chinese constellations
