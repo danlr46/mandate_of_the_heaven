@@ -25,7 +25,7 @@ Obesrvatories: Fig 6.17
 Chinese constellations: Fig. A.7
 ![Fig.A 7](https://github.com/user-attachments/assets/4217af67-a5db-4c9b-89c2-df8f72cf7126)
 
-Fig. A.8
+Fig. A.8 - Occedntal constellations
 ![Fig.A 8](https://github.com/user-attachments/assets/f7ba0733-10b4-4667-b422-5c16ce947f1e)
 
 Fig.A.9
