@@ -15,6 +15,9 @@ China thematic maps:
 ![Fig 1 2](https://github.com/user-attachments/assets/1b66a67b-5737-43ac-a83c-70fff5b09a4e)
 ![Fig.1 3](https://github.com/user-attachments/assets/20817c9f-206e-48ee-8ee9-15b6aca1bbc8)
 
+Obesrvatories:
+![6 17 sin](https://github.com/user-attachments/assets/65bb49e6-c14a-4bf0-8399-f076d767a2c8)
+
 Chinese constellations:
 ![Fig.A 7](https://github.com/user-attachments/assets/4217af67-a5db-4c9b-89c2-df8f72cf7126)
 ![Fig.A 8](https://github.com/user-attachments/assets/f7ba0733-10b4-4667-b422-5c16ce947f1e)
