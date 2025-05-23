@@ -6,8 +6,13 @@ This repository contains files of the book The Mandate of  Heaven: the Astronomy
 
 Questo archivio contiene file del libro: Il Mandato del Cielo: l'Astronomia della Cina Antica.
 
-1 - Epistolarium_Terrentius_Kepler_ITA.pdf, traduzione in italiano delle lettere scambiate tra il gesuita missionario in Cina Johannes Terrentius e Johannes Kepler
-[Epistolarium_Terrentius_Kepler_ITA.pdf](https://github.com/user-attachments/files/18380096/Epistolarium_Terrentius_Kepler_ITA.pdf)
+1a - Epistolarium_Terrentius_Kepler_ITA.pdf, traduzione in italiano delle lettere scambiate tra il gesuita missionario in Cina Johannes Terrentius e Johannes Kepler
+[Epistolario Terrentius Kepler.pdf](https://github.com/user-attachments/files/20407256/Epistolario.Terrentius.Kepler.pdf)
+
+
+1b - Epistolarium_Terrentius_Kepler_ENG.pdf, english translation of the letters of Terrentius and Johannes Kepler
+
+
 
 2 - Mappe tematiche della Cina e mappe celesti delle costellazioni cinesi.
 
